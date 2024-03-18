@@ -1,5 +1,5 @@
 table,td,th{
-    border: #000000 3px solid;
+    border: #000000 3px dotted;
     border-collapse: collapse;
     text-align: center;
     padding: 5px;
